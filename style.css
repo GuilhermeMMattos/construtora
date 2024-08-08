@@ -1,0 +1,14 @@
+.main{
+
+}
+.content{
+
+}
+.navi-bar{
+    display: flex;
+    justify-content: space-between;
+}
+.navi-item{
+    width: 10cm;
+    margin-left: 35%;
+}
